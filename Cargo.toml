@@ -1,0 +1,8 @@
+[workspace]
+members = [ 
+    "src/clients", 
+    "src/cmd", 
+    "src/common/base",
+    "src/placement-center", 
+    "src/protocol"
+]

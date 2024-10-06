@@ -1,0 +1,9 @@
+[package]
+name = "cmd"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+[[bin]]
+name = "placement-center"
+path = "src/placement-center/server.rs"
